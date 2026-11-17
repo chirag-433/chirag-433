@@ -2,8 +2,6 @@
 
 CSE student interested in **backend engineering**, developer tools, and open-source software. I enjoy building practical applications with **Go and Python**.
 
-[Portfolio](#) · [GitHub](https://github.com/chirag-433) · [LinkedIn](https://www.linkedin.com/in/chirag-anand/)
-
 ### What I work with
 
 **Languages:** Go · Python · Java · JavaScript  
