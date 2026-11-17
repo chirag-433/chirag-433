@@ -1,27 +1,37 @@
-# Hi, I'm Chirag Anand 👋
+# Hey, I'm Chirag Anand 👋
 
-CSE student interested in **backend engineering**, developer tools, and open-source software. I enjoy building practical applications with **Go and Python**.
+CSE student building things with **Go and Python**. Interested in backend engineering, developer tools, and open source.
 
-### What I work with
+[![GitHub](https://img.shields.io/badge/GitHub-chirag--433-181717?logo=github)](https://github.com/chirag-433) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/chirag-anand/)
 
-**Languages:** Go · Python · Java · JavaScript  
-**Interests:** Backend development · REST APIs · CLI tools · Open source
+### Tech
 
-### Selected work
+**Languages** · Go · Python · Java · JavaScript  
+**Focus** · Backend development · REST APIs · CLI tools · Open source
 
-- **[gocli](https://github.com/chirag-433/gocli)** — Go-based website and API health monitor with concurrent checks, TLS certificate tracking, and persistent endpoint storage.
-- **[repo-stats-cli](https://github.com/chirag-433/repo-stats-cli)** — Python CLI that displays GitHub repository metrics in a formatted terminal table.
+### Featured projects
+
+| Project | What it does |
+|---|---|
+| [gocli](https://github.com/chirag-433/gocli) | Go-based website and API health monitor with concurrent checks, TLS certificate tracking, and persistent endpoint storage |
+| [repo-stats-cli](https://github.com/chirag-433/repo-stats-cli) | Python CLI for viewing GitHub repository metrics in a formatted terminal table |
+| [MedTrek](https://github.com/chirag-433/MedTrek) | Web app for organizing medication schedules and tracking doses |
 
 ### Open source
 
-I contribute to open-source projects, including **[napari](https://github.com/napari/napari)** and **[InVesalius](https://github.com/invesalius/invesalius3)**.
+Contributing to projects including [napari](https://github.com/napari/napari) and [InVesalius](https://github.com/invesalius/invesalius3).
 
-### GitHub activity
+### GitHub stats
 
 <div align="center">
+  <img height="170" src="./profile/stats.svg" alt="GitHub statistics" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+</div>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-433&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+### Contribution activity
 
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-433&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </div>
 
 ---
