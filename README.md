@@ -40,7 +40,7 @@ CLI tools · Developer tools · Open source
 ### GitHub at a glance
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub statistics">
+  <img height="165" src="./profile/stats.svg?v=2" alt="GitHub statistics">
   <img height="165" src="./profile/top-langs.svg" alt="Top languages">
 </p>
 
