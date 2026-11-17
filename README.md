@@ -12,7 +12,6 @@ CSE student interested in **backend engineering**, developer tools, and open-sou
 - **[gocli](https://github.com/chirag-433/gocli)** — Go-based website and API health monitor with concurrent checks, TLS certificate tracking, and persistent endpoint storage.
 - **[repo-stats-cli](https://github.com/chirag-433/repo-stats-cli)** — Python CLI that displays GitHub repository metrics in a formatted terminal table.
 
-
 ### Open source
 
 I contribute to open-source projects, including **[napari](https://github.com/napari/napari)** and **[InVesalius](https://github.com/invesalius/invesalius3)**.
@@ -21,10 +20,10 @@ I contribute to open-source projects, including **[napari](https://github.com/na
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chirag-433&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-433&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=chirag-433&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chirag-433&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-433&theme=github-compact&hide_border=true&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-433&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
 </div>
 
