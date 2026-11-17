@@ -16,12 +16,9 @@ CSE student interested in **backend engineering**, developer tools, and open-sou
 
 I contribute to open-source projects, including **[napari](https://github.com/napari/napari)** and **[InVesalius](https://github.com/invesalius/invesalius3)**.
 
-### GitHub
+### GitHub activity
 
 <div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=chirag-433&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chirag-433&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-433&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
