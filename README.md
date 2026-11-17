@@ -11,7 +11,7 @@ CSE student interested in **backend engineering**, developer tools, and open-sou
 
 - **[gocli](https://github.com/chirag-433/gocli)** — Go-based website and API health monitor with concurrent checks, TLS certificate tracking, and persistent endpoint storage.
 - **[repo-stats-cli](https://github.com/chirag-433/repo-stats-cli)** — Python CLI that displays GitHub repository metrics in a formatted terminal table.
-- **[MedTrek](https://github.com/chirag-433/MedTrek)** — Web app for organizing medication schedules and tracking doses.
+
 
 ### Open source
 
