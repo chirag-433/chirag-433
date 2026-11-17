@@ -15,11 +15,7 @@ CSE student building things with **Go and Python**. Interested in backend engine
 |---|---|
 | [gocli](https://github.com/chirag-433/gocli) | Go-based website and API health monitor with concurrent checks, TLS certificate tracking, and persistent endpoint storage |
 | [repo-stats-cli](https://github.com/chirag-433/repo-stats-cli) | Python CLI for viewing GitHub repository metrics in a formatted terminal table |
-| [MedTrek](https://github.com/chirag-433/MedTrek) | Web app for organizing medication schedules and tracking doses |
 
-### Open source
-
-Contributing to projects including [napari](https://github.com/napari/napari) and [InVesalius](https://github.com/invesalius/invesalius3).
 
 ### GitHub stats
 
