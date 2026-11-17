@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Chirag Anand 👋</h1>
 
 <p align="center">
-  <strong>CSE student · Backend developer · Open-source contributor</strong><br>
-  Building with Go and Python, and exploring backend engineering and developer tools.
+  <strong>Go &amp; Python developer · Open-source contributor</strong><br>
+  Building with Go and Python, and exploring developer tools.
 </p>
 
 <p align="center">
@@ -18,20 +18,17 @@
 
 ### About me
 
-- 🎓 CSE student who enjoys building practical software
-- 🛠️ Interested in backend engineering, REST APIs, and CLI tools
-- 🌱 Learning, building, and contributing to open source
+- 🛠️ I enjoy building useful tools and applications
+- 💻 Interested in Go, Python, developer tools, and open source
+- 🌱 Always learning by building and contributing
 
 ### Tech I work with
 
-**Languages**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Focus areas**  
-Backend development · REST APIs · CLI tools · Open source
+CLI tools · Developer tools · Open source
 
 ### Featured projects
 
