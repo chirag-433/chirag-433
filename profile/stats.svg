@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Chirag Anand&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Commits  : 185, Total PRs: 31, Total Issues: 1, Contributed to (all time): 11</desc>
+        <title id="titleId">Chirag Anand&#39;s GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Commits  : 193, Total PRs: 31, Total Issues: 5, Contributed to (all time): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 220.27379967877698;
+        stroke-dashoffset: 217.9315746751251;
       }
     }
   
@@ -158,7 +158,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >185</text>
+      >193</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -188,7 +188,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >1</text>
+      >5</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
